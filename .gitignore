@@ -21,6 +21,11 @@
 /storage/*.key
 /storage/pail
 /vendor
+google-credentials*.json
+storage/app/google-credentials*.json
+storage/app/attendance_photos/
+storage/app/leave_attachments/
+*.sqlite
 _ide_helper.php
 Homestead.json
 Homestead.yaml
